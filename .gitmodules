@@ -1,0 +1,4 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/anomitra/anomitra.github.io.git
+	ignore = all
