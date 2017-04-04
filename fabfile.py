@@ -46,8 +46,6 @@ def regenerate():
 
 def serve():
     """Serve site at http://localhost:8000/"""
-    print env.deploy_path
-    os.chdir('..')
     os.chdir(env.deploy_path)
 
     class AddressReuseTCPServer(SocketServer.TCPServer):

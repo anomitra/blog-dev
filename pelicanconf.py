@@ -8,6 +8,7 @@ SITEURL = ''
 
 OUTPUT_PATH = 'output'
 PATH = 'content'
+THEME = 'medius'
 
 TIMEZONE = 'Asia/Kolkata'
 
