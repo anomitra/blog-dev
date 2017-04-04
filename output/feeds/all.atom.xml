@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Anomitra's Blog</title><link href="http://anomitra.github.io/" rel="alternate"></link><link href="http://anomitra.github.io/feeds/all.atom.xml" rel="self"></link><id>http://anomitra.github.io/</id><updated>2017-03-30T00:00:00+05:30</updated><entry><title>Test Post</title><link href="http://anomitra.github.io/test-post.html" rel="alternate"></link><published>2017-03-30T00:00:00+05:30</published><updated>2017-03-30T00:00:00+05:30</updated><author><name>Anomitra</name></author><id>tag:anomitra.github.io,2017-03-30:/test-post.html</id><summary type="html">&lt;p&gt;This is a new post.
-This is a brand new post.
-Testing.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a new post.
-This is a brand new post.
-Testing.&lt;/p&gt;</content></entry></feed>
